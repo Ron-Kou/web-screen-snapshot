@@ -1,0 +1,3 @@
+- url: https://github.com/bfirsh/replicate-screenshots
+  output: shot.png
+  height: 800
